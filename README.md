@@ -17,4 +17,5 @@ This project focuses on analyzing Vrinda Store sales data using Microsoft Excel.
 To analyze store sales data and understand sales performance through data analysis and visualization.
 
 ## Author
-Aspiring Data Analyst
+Khushbu
+Aspiring Data Analyst | Learning Data Analytics with AI
